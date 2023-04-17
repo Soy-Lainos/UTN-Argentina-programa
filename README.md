@@ -1,0 +1,3 @@
+Hice lo que pude en el tiempo que pude. Me hubiera gustado hacer algo mejor, pero bue... Me paso que no estuve prácticando mucho, porque todo lo que fui viendo crei que lo fui incorporando. Pero al momento de pasar todo a codigo, jaja  me faltarón muchas cosas que tuve que repasar. Y muy a mi pesar al final CSS no fue tan fácil como creia.
+Me sigue costando usar la consola que aparece cuando inspeccionamos los elementos de la pagina.
+Fuera de eso estoy muy feliz porque aprendi muchas cosas nuevas.
